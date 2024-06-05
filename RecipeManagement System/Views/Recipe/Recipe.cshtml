@@ -1,0 +1,32 @@
+﻿@model RecipeManagement_System.Models.Recipe.RecipeViewModel
+@{
+    ViewData["Title"] = "Recipe";
+}
+
+<h2>@ViewData["Title"]</h2>
+<hr>
+<form asp-action="Recipe">
+
+    <div class="mb-3">
+        <label asp-for="RecipeName" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="RecipeName">
+        <span asp-validation-for="RecipeName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Description">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Ingredients" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Ingredients">
+        <span asp-validation-for="Ingredients" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Procedure" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Procedure">
+        <span asp-validation-for="Procedure" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+</form>
