@@ -42,12 +42,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/Recipe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXFJlY2lwZS5jc2h0bWw=
+[C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Recipe/ViewRecipe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXFZpZXdSZWNpcGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL/Desktop/MGQS/RecipeManagement System/RecipeManagement System/Views/Shared/Error.cshtml]

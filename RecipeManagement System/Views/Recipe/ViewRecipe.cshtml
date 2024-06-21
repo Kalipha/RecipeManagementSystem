@@ -1,0 +1,30 @@
+﻿@model RecipeManagement_System.Models.Recipe.RecipeViewModel
+   
+
+@{
+
+}
+<div>
+    <table class="table table-bordered table-primary table-striped">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Recipe Title</td>
+                <td>Description</td>
+                <td>Ingredients</td>
+                <td>Procedure</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.RecipeName</td>
+                <td>@Model.Description</td>
+                <td>@Model.Ingredients</td>
+                <td>@Model.Procedure</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>

@@ -3,8 +3,9 @@ using RecipeManagement_System.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<RMSDbContext>(options =>
-                options.UseMySQL(connectionString: builder.Configuration.GetConnectionString("RMSConnectionstring")));
+
+builder.Services.AddDbContext<RMSDbContext>(options => options.UseMySQL(builder.Configuration.GetConnectionString("RMSconnectionstring")));
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

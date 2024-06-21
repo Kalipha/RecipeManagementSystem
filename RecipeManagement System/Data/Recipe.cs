@@ -1,12 +1,16 @@
-﻿namespace RecipeManagement_System.Data
+﻿
+namespace RecipeManagement_System.Data
 {
-    public class Recipe
+ 
+    public class Recipe : BaseEntity
     {
-        public String RecipeName { get; set; }
-        public String Description { get; set; }
-        public String Ingredient { get; set; }
-        public String Procedure { get; set; }
-        public Category CategoryName { get; set; }
-
+        public int Id { get; set; }
+        public string RecipeName { get; set; }
+        public string Description { get; set; }
+        public string Ingredient { get; set; }
+        public string Procedure { get; set; }
+        public int CategoryId { get; set; }
+        public List<Category> Category { get; set; } = default;
     }
+    
 }

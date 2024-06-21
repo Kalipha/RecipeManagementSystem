@@ -1,7 +1,7 @@
 ﻿namespace RecipeManagement_System.Data
 {
-    public class Category : BaseEntity
+    public class Category
     {
-        public String CategoryName { get; set; }
+        public string CategoryName { get; set; }
     }
 }

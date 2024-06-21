@@ -1,48 +1,92 @@
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
-a.navbar-brand[b-th6i744z1p] {
+a.navbar-brand[b-alms39s4pt] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
 
-a[b-th6i744z1p] {
+a[b-alms39s4pt] {
   color: #0077cc;
 }
 
-.btn-primary[b-th6i744z1p] {
+.btn-primary[b-alms39s4pt] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
-.nav-pills .nav-link.active[b-th6i744z1p], .nav-pills .show > .nav-link[b-th6i744z1p] {
+.nav-pills .nav-link.active[b-alms39s4pt], .nav-pills .show > .nav-link[b-alms39s4pt] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
-.border-top[b-th6i744z1p] {
+.border-top[b-alms39s4pt] {
   border-top: 1px solid #e5e5e5;
 }
-.border-bottom[b-th6i744z1p] {
+.border-bottom[b-alms39s4pt] {
   border-bottom: 1px solid #e5e5e5;
 }
 
-.box-shadow[b-th6i744z1p] {
+.box-shadow[b-alms39s4pt] {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
-button.accept-policy[b-th6i744z1p] {
+button.accept-policy[b-alms39s4pt] {
   font-size: 1rem;
   line-height: inherit;
 }
 
-.footer[b-th6i744z1p] {
+.footer[b-alms39s4pt] {
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.navBar[b-alms39s4pt] {
+    float: right;
+    margin-top: -40px;
+    margin-right: 20px;
+}
+
+li[b-alms39s4pt] {
+    padding-right: 30px;
+}
+
+a .button[b-alms39s4pt] {
+    border: 1px, brown, 2px;
+    border-color: brown;
+    color: orange,;
+}
+
+a[b-alms39s4pt] {
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+    a:hover[b-alms39s4pt] {
+        background-color: red;
+    }
+
+img[b-alms39s4pt] {
+    height: 120px;
+    width: 200px;
+}
+
+table[b-alms39s4pt] {
+    width: 500px;
+    margin: auto;
+}
+
+td[b-alms39s4pt] {
+    width: 200px;
+    border-right: solid, black, 1px;
+    padding-top: 50px;
 }

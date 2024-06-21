@@ -3,80 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\implementation\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\implementation\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\context\\rmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\context\\rmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\data\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\data\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\recipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\recipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\recipe\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\recipe\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\auth\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\auth\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\viewrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\viewrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\recipe\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\recipe\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\data\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\data\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\interfaces\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\interfaces\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\recipe\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\recipe\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\data\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\data\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\recipemanagement_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\recipemanagement_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Migrations\\20240616113755_testing2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecipeManagement System\\Migrations\\20240616113755_testing2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\migrations\\20240616100931_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\migrations\\20240616100931_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\actionfilter\\redirectauthenticatedusersattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\actionfilter\\redirectauthenticatedusersattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\auth\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\auth\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|c:\\users\\dell\\desktop\\mgqs\\recipemanagement system\\recipemanagement system\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0620EF-2ED2-4503-9FC5-DC0B0F0F2F7A}|RecipeManagement System\\RecipeManagement_System.csproj|solutionrelative:recipemanagement system\\models\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,128 +138,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Category.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Data\\Category.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Category.cs",
-              "RelativeToolTip": "RecipeManagement System\\Data\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:27:00.542Z"
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Delete.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:58:49.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ViewRecipe.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\ViewRecipe.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\ViewRecipe.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\ViewRecipe.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\ViewRecipe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:57:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RMSDbContext.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Context\\RMSDbContext.cs",
               "RelativeDocumentMoniker": "RecipeManagement System\\Context\\RMSDbContext.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Context\\RMSDbContext.cs",
               "RelativeToolTip": "RecipeManagement System\\Context\\RMSDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "ViewState": "AQIAAAcAAABANTMzMzMLwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T13:02:00.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
-              "RelativeToolTip": "RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:01:00.34Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Recipe.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Data\\Recipe.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Recipe.cs",
-              "RelativeToolTip": "RecipeManagement System\\Data\\Recipe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:03:36.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Recipe.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Recipe.cshtml",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\Recipe.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Recipe.cshtml",
-              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\Recipe.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwPRwAAAAKAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Create.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T17:37:40.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.json",
-              "RelativeDocumentMoniker": "RecipeManagement System\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.json",
-              "RelativeToolTip": "RecipeManagement System\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T16:44:45.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
-              "RelativeToolTip": "RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
-              "ViewState": "AQIAAAsAAADgyszMzMwHwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T07:48:17.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\Auth.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Controllers\\Auth.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\Auth.cs",
-              "RelativeToolTip": "RecipeManagement System\\Controllers\\Auth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:46:43.932Z"
+              "WhenOpened": "2024-06-01T17:37:40.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "RecipeManagement System\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T07:47:55.24Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RecipeManagement System\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAkpmZmZkJwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:45:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Implementation\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Implementation\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Implementation\\RecipeRepository.cs",
+              "RelativeToolTip": "RecipeManagement System\\Implementation\\RecipeRepository.cs",
+              "ViewState": "AQIAADQAAACAZGZmZmYiwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:27:13.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Update.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Update.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:54:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "RecipeManagement System\\Controllers\\RecipeController.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\RecipeController.cs",
               "RelativeToolTip": "RecipeManagement System\\Controllers\\RecipeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAACsAAADAZmZmZmYGwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:13:37.444Z"
+              "WhenOpened": "2024-06-01T11:13:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Data\\Recipe.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Recipe.cs",
+              "RelativeToolTip": "RecipeManagement System\\Data\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:03:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Interfaces\\IRecipeRepository.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Interfaces\\IRecipeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Interfaces\\IRecipeRepository.cs",
+              "RelativeToolTip": "RecipeManagement System\\Interfaces\\IRecipeRepository.cs",
+              "ViewState": "AQIAAAEAAABgMjMzMzMrwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:42:16.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -217,97 +278,183 @@
               "RelativeDocumentMoniker": "RecipeManagement System\\Models\\Recipe\\RecipeViewModel.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Recipe\\RecipeViewModel.cs",
               "RelativeToolTip": "RecipeManagement System\\Models\\Recipe\\RecipeViewModel.cs",
-              "ViewState": "AQIAAAoAAACAuQ3JG7IEwBsAAAARAAAA",
+              "ViewState": "AQIAABMAAAAAzMzMzMw7wCQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:24:37.247Z"
+              "WhenOpened": "2024-06-01T08:24:37.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T17:42:31.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RecipeManagement System\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABMAAADA//////8rwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:45:30.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Index.cshtml",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Recipe\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Recipe\\Index.cshtml",
-              "RelativeToolTip": "RecipeManagement System\\Views\\Recipe\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T08:18:10.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
-              "RelativeToolTip": "RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:52:09.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\BaseEntity.cs",
               "RelativeDocumentMoniker": "RecipeManagement System\\Data\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\BaseEntity.cs",
               "RelativeToolTip": "RecipeManagement System\\Data\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:00:57.174Z"
+              "WhenOpened": "2024-06-21T05:28:31.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Data\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Data\\Category.cs",
+              "RelativeToolTip": "RecipeManagement System\\Data\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:27:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Controllers\\Auth.cs",
+              "RelativeToolTip": "RecipeManagement System\\Controllers\\Auth.cs",
+              "ViewState": "AQIAACQAAABAwMzMzEwewCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:46:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "RecipeManagement System\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:50:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Program.cs",
+              "RelativeToolTip": "RecipeManagement System\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:00:36.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:13:48.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABMAAACAmZmZmZkuwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T08:24:02.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAABAXmZmZiYgwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:42:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "RecipeManagement_System.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\RecipeManagement_System.csproj",
               "RelativeDocumentMoniker": "RecipeManagement System\\RecipeManagement_System.csproj",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\RecipeManagement_System.csproj",
               "RelativeToolTip": "RecipeManagement System\\RecipeManagement_System.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-01T08:03:33.267Z"
+              "WhenOpened": "2024-06-01T08:03:33.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RedirectAuthenticatedUsersAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
-              "RelativeDocumentMoniker": "RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
-              "RelativeToolTip": "RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
-              "ViewState": "AQIAAAgAAABgZmZmZmYowA8AAABKAAAA",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T07:49:26.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RecipeManagement System\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.Development.json",
+              "RelativeToolTip": "RecipeManagement System\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T10:13:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeManagement System\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\appsettings.json",
+              "RelativeToolTip": "RecipeManagement System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T16:44:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240616113755_testing2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Migrations\\20240616113755_testing2.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Migrations\\20240616113755_testing2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Migrations\\20240616113755_testing2.cs",
+              "RelativeToolTip": "RecipeManagement System\\Migrations\\20240616113755_testing2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:11:06.572Z"
+              "WhenOpened": "2024-06-16T11:37:55.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Utility\\Helper.cs",
               "RelativeDocumentMoniker": "RecipeManagement System\\Utility\\Helper.cs",
@@ -315,7 +462,99 @@
               "RelativeToolTip": "RecipeManagement System\\Utility\\Helper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:12:33.807Z"
+              "WhenOpened": "2024-06-01T08:12:33.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240616100931_testing.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Migrations\\20240616100931_testing.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Migrations\\20240616100931_testing.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Migrations\\20240616100931_testing.cs",
+              "RelativeToolTip": "RecipeManagement System\\Migrations\\20240616100931_testing.cs",
+              "ViewState": "AQIAANEAAAAAamZmZuYjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:09:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RedirectAuthenticatedUsersAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
+              "RelativeToolTip": "RecipeManagement System\\ActionFilter\\RedirectAuthenticatedUsersAttribute.cs",
+              "ViewState": "AQIAAAgAAABgZmZmZmYowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:11:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RecipeManagement System\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:58:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T07:47:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "RecipeManagement System\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T07:48:17.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
+              "RelativeToolTip": "RecipeManagement System\\Models\\Auth\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAMAAADAMjMzMzMrwAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:52:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MGQS\\RecipeManagement System\\RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
+              "RelativeToolTip": "RecipeManagement System\\Models\\Auth\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:01:00.34Z",
+              "EditorCaption": ""
             }
           ]
         }

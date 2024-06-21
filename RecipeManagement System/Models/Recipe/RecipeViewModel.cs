@@ -1,4 +1,5 @@
-﻿using RecipeManagement_System.Data;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using RecipeManagement_System.Data;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -6,8 +7,14 @@ using System.ComponentModel.DataAnnotations;
 
 namespace RecipeManagement_System.Models.Recipe
 {
-    public class RecipeViewModel:BaseEntity
+   
+    public class RecipeViewModel
     {
+        
+
+        [Key]
+        public int Id { get; set; }
+
         [Display(Name = "Recipe Name")]
         [Required]
         public string RecipeName { get; set; }
@@ -20,11 +27,16 @@ namespace RecipeManagement_System.Models.Recipe
         [Required]
         public string Ingredients { get; set; } = default!;
 
+        
+        [Display(Name = "Category")]
+        [Required(ErrorMessage = "Please select a category")]
+        public int CategoryId { get; set; }
+        public List<SelectListItem> Categories { get; set; } = default!;
+
         [Display(Name = "Procedure")]
         [Required]
-        public String Procedure { get; set; }
+        public string Procedure { get; set; }
 
-        [Required]
-        public Category Category { get; set; }
     }
+
 }
