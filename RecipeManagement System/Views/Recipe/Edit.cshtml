@@ -1,15 +1,8 @@
-﻿@model RecipeManagement_System.Models.Recipe.RecipeViewModel
-@{
-    ViewData["Title"] = "Create Recipe";
-}
-<style>
-    .input-validation-error {
-        border-color: red;
-    }
-</style>
-<h2>@ViewData["Title"]</h2>
-<hr/>
+﻿ @model RecipeManagement_System.Models.Recipe.RecipeViewModel
 
+@{
+    ViewData["Title"] = "Edit Recipe";
+}
 <form asp-action="Recipe" enctype="multipart/form-data">
 
     <div class="mb-3">
@@ -20,7 +13,7 @@
     <div class="mb-3">
         <label asp-for="CategoryId" class="form-label"></label>
         <select asp-for="CategoryId" class="form-control">
-            <option value="" selected hidden disabled>Select Category</option>
+            <option value="" selected hidden disabled>Select </option>
             @foreach (var item in Model.Categories)
             {
                 <option value="@item.CategoryName">@item.CategoryName</option>
@@ -38,6 +31,7 @@
         <textarea class="form-control" asp-for="Ingredients"></textarea>
         <span asp-validation-for="Ingredients" class="text-danger"></span>
     </div>
+
     <div class="mb-3">
         <label asp-for="Procedure" class="form-label"></label>
         <textarea class="form-control" asp-for="Procedure"></textarea>

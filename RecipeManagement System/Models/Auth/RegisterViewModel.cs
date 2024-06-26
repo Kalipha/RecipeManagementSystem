@@ -2,7 +2,7 @@
 
 namespace RecipeManagement_System.Models.Auth
 {
-    public class SignUpViewModel
+    public class RegisterViewModel
     {
         [Required(ErrorMessage = "Username is required")]
         public string Username { get; set; } = default!;

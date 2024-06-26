@@ -10,7 +10,10 @@ namespace RecipeManagement_System.Data
         public string Ingredient { get; set; }
         public string Procedure { get; set; }
         public int CategoryId { get; set; }
-        public List<Category> Category { get; set; } = default;
+        public Category Category { get; set; } = default;
+        public string ImagePath { get; set; }
+        public string OwnerId { get; internal set; }
+        
     }
     
 }

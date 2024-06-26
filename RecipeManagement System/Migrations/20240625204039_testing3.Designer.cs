@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RecipeManagement_System.Context;
 
@@ -10,9 +11,11 @@ using RecipeManagement_System.Context;
 namespace RecipeManagement_System.Migrations
 {
     [DbContext(typeof(RMSDbContext))]
-    partial class RMSDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240625204039_testing3")]
+    partial class testing3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -157,7 +160,12 @@ namespace RecipeManagement_System.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
+                    b.Property<int?>("RecipeId")
+                        .HasColumnType("int");
+
                     b.HasKey("CategoryId");
+
+                    b.HasIndex("RecipeId");
 
                     b.ToTable("Categories");
                 });
@@ -202,8 +210,6 @@ namespace RecipeManagement_System.Migrations
                         .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("CategoryId");
 
                     b.ToTable("Recipes");
                 });
@@ -323,20 +329,16 @@ namespace RecipeManagement_System.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("RecipeManagement_System.Data.Recipe", b =>
-                {
-                    b.HasOne("RecipeManagement_System.Data.Category", "Category")
-                        .WithMany("Recipes")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Category");
-                });
-
             modelBuilder.Entity("RecipeManagement_System.Data.Category", b =>
                 {
-                    b.Navigation("Recipes");
+                    b.HasOne("RecipeManagement_System.Data.Recipe", null)
+                        .WithMany("Category")
+                        .HasForeignKey("RecipeId");
+                });
+
+            modelBuilder.Entity("RecipeManagement_System.Data.Recipe", b =>
+                {
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

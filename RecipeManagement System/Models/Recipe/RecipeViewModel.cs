@@ -31,12 +31,16 @@ namespace RecipeManagement_System.Models.Recipe
         [Display(Name = "Category")]
         [Required(ErrorMessage = "Please select a category")]
         public int CategoryId { get; set; }
-        public List<SelectListItem> Categories { get; set; } = default!;
+        public List<Category> Categories { get; set; } = default!;
 
         [Display(Name = "Procedure")]
         [Required]
         public string Procedure { get; set; }
 
+        [Display(Name = "Image")]
+        public IFormFile Image { get; set; }
+        
+        public string? Imagepath { get; set; }
     }
 
 }

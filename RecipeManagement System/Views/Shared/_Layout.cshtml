@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - RecipeManagement_System</title>
+    <title>@ViewData["Title"] - Recipe Management System</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/RecipeManagement_System.styles.css" asp-append-version="true" />
@@ -25,12 +25,13 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Auth" asp-action="Login">Login/SignUp</a>
-                        </li>
+                        
                     </ul>
                 </div>
-z        </nav>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Auth" asp-action="Login">Login/SignUp</a>
+                </li>
+        </nav>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
@@ -46,6 +47,7 @@ z        </nav>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    @await Component.InvokeAsync("Notyf")
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
